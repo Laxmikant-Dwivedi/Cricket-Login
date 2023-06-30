@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Cricket-Login/static/css/main.b76333c5.css",
+    "main.js": "/Cricket-Login/static/js/main.3ae022ca.js",
+    "static/media/cric3.jpg": "/Cricket-Login/static/media/cric3.bb96871612e1edd10865.jpg",
+    "static/media/cric6.jpg": "/Cricket-Login/static/media/cric6.db62e76636d3addaee4f.jpg",
+    "static/media/frame.png": "/Cricket-Login/static/media/frame.3a238e5f26d676376e1d.png",
+    "static/media/club1.png": "/Cricket-Login/static/media/club1.63edd159696da3260540.png",
+    "index.html": "/Cricket-Login/index.html",
+    "main.b76333c5.css.map": "/Cricket-Login/static/css/main.b76333c5.css.map",
+    "main.3ae022ca.js.map": "/Cricket-Login/static/js/main.3ae022ca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b76333c5.css",
+    "static/js/main.3ae022ca.js"
+  ]
+}
